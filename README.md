@@ -1,5 +1,3 @@
-# youtube-favs
-
-Favorite youtube content
+# Favorite content
  - Summarized
  - Searchable and filterable
