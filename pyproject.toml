@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "summarizer-to-download-from-git"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+license = "n"
+readme = "README.md"
+packages = [{include = "summarizer_to_download_from_git"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+python-dotenv = "^1.0.0"
+spacy = "^3.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
